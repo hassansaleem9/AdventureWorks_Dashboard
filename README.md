@@ -1,13 +1,7 @@
-#Description
+# Description
+Welcome to the project! This project is a data visualization and analysis tool built using Power BI. It includes a relational data model designed to store and organize large datasets, along with calculated fields created using DAX (Data Analysis Expressions) to provide advanced calculations and analytics. The project's main goal is to enable users to interactively explore and analyze data using interactive Power BI reports. Users can filter, sort, and drill down into data to uncover insights and make informed business decisions
 
-Welcome to our project! This is a Todo list App made in Python and the Django framework. It allows users to quickly and easily add, delete, and update events and tasks. With this App, users can effortlessly manage their tasks and events, helping them stay organized and on top of their to-do list. We hope you enjoy and we look forward to your contributions!
-
-#Contributing
-We welcome any and all contributions! Here are some ways you can get started:
-
-Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
-Contribute code: If you are a developer and want to contribute, follow the instructions below to get started!
-Suggestions: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or imporvements you would like to see!
-Documentation: If you see the need for some additional documentation, feel free to add some!
-
-#Instructions
+# Features
+This project is designed to manage clothing inventory and sales data. It includes three main categories with multiple subcategories for each. Users can view detailed information about each category, subcategory, product name, and brand. The dashboard provides a comprehensive overview of total orders, revenue, returns, and return rates.
+Users can search for products based on location and use forecasting tools to predict future sales and customer interests. This helps to ensure that inventory is managed effectively and that popular products are stocked in the right quantities.
+The clothing inventory project is useful for businesses of all sizes, including small boutiques and large retailers. It provides an easy-to-use interface for managing inventory, tracking sales data, and making data-driven decisions. By providing detailed information about products, sales, and customer behavior, the dashboard helps businesses optimize their inventory, increase sales, and improve customer satisfaction.
